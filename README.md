@@ -10,6 +10,8 @@ Run :
 
 ### `cd react-todo`
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.
