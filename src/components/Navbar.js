@@ -3,7 +3,7 @@ import React from 'react'
 export default function Navbar() {
   return (
     <div>
-        <h1>Navbar Component</h1>
+        <h1 className='nav-heading'>To Do</h1>
     </div>
   )
 }
