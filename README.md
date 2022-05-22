@@ -2,7 +2,7 @@
 
 ## To Do App
 
-Make sure you have npm installed on your system. 
+Make sure you have Node.js and npm installed on your system. 
 
 Run : 
 
