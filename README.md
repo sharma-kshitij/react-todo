@@ -4,6 +4,8 @@
 
 Make sure you have npm installed on your system. 
 
+Run : 
+
 ### `git clone https://github.com/sharma-kshitij/react-todo.git`
 
 ### `cd react-todo`
