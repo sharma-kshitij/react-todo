@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Form from './components/Form';
 import TodoList from './components/TodoList';
 import React, {useState} from 'react';
+import Counter from './components/Counter';
 
 function App() {
 
@@ -14,7 +15,9 @@ function App() {
       <Navbar 
       />
       
-      <h1 className='motivational-line'>Just {todos.length} more to go!</h1>
+      <Counter 
+      todos = {todos}
+      />
       
       
       <Form 
