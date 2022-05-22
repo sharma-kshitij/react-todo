@@ -43,7 +43,6 @@
 }
 
 .todo-list{
-    
     margin: 5rem;
 }
 
@@ -56,6 +55,7 @@
     display: flex;
     align-items: center;
     justify-content: left;
+    margin: 0 25%;
 }
 
 ul{
@@ -92,4 +92,8 @@ button:active{
 
 .todo{
     font-weight: 100;
+}
+.completed{
+    text-decoration: line-through;
+    opacity: 0.5;
 }
